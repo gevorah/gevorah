@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="232" height="48" viewBox="0 0 232 48">
+  <title>Explore my universe</title>
+  <rect x="1" y="1" width="230" height="46" rx="23"
+        fill="#a583f2" stroke="#c0a1ff"/>
+  <path d="M29 13L32 21L40 24L32 27L29 35L26 27L18 24L26 21Z"
+        fill="#0e0c13"/>
+  <text x="135" y="29.5" font-family="Arial, sans-serif"
+        font-size="15" font-weight="600" text-anchor="middle"
+        fill="#0e0c13">Explore my universe</text>
+</svg>

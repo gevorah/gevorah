@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="232" height="48" viewBox="0 0 232 48">
+  <title>Let's connect</title>
+  <rect x="1" y="1" width="230" height="46" rx="23"
+        fill="#23202c" stroke="#625b72"/>
+  <path d="M29 13L32 21L40 24L32 27L29 35L26 27L18 24L26 21Z"
+        fill="#c0a1ff"/>
+  <text x="135" y="29.5" font-family="Arial, sans-serif"
+        font-size="15" font-weight="600" text-anchor="middle"
+        fill="#eeedf5">Let's connect</text>
+</svg>
